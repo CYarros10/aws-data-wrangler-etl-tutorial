@@ -43,7 +43,7 @@ Releases with Glue Egg/Wheel: https://github.com/awslabs/aws-data-wrangler/relea
 
 ## Initiate Lambda ETL
 
-8. Place samples/un-general-debates.csv into S3 Bucket containing S3 Trigger
+8. Place samples/un-general-debates.csv (93.3 MB) into S3 Bucket containing S3 Trigger
 
 ## Viewing Results
 

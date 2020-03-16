@@ -49,7 +49,7 @@ Releases with Glue Egg/Wheel: https://github.com/awslabs/aws-data-wrangler/relea
 
 7. Go to [Glue Data Catalog Console](https://console.aws.amazon.com/glue/home?region=us-east-1#), wait for Glue Data Catalog to update with new table. (un-general-debates)
 
-8. Go to Athena Console and query the table.
+8. Go to [Athena Console](https://console.aws.amazon.com/athena/home?region=us-east-1#query) and query the table.
 
         select * from un_general_debates limit 10;
 

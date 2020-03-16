@@ -31,7 +31,7 @@ Releases with Glue Egg/Wheel: https://github.com/awslabs/aws-data-wrangler/relea
 
 ## Create the Lambda
 
-3. Go to [Lambda Function Console](https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions). Create new Lambda function. Copy code from scripts/lambda-transform.py into your Lambda Function. Update code with correct glue database: **insert-glue-database-here**
+3. Go to [Lambda Function Console](https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions). Create new Lambda function. Copy code from scripts/lambda-etl.py into your Lambda Function. Update code with correct glue database: **insert-glue-database-here**
 
 4. Create a new Lambda role with S3, Glue, and CloudWatch permissions
 
